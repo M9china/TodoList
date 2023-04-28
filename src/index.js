@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './todo.css';
 import reportWebVitals from './reportWebVitals';
 import TodoList from './TodoList';
 
